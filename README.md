@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyrasra
 - 👀 I’m interested in cybersecurity  
-- 🌱 I’m currently learning cyber security meditation and English
+- 🌱 I’m currently learning cyber security, meditation and English
 - 💞️ I’m looking to collaborate on hackthon 
 - 📫 How to reach me just send me message on github
 
